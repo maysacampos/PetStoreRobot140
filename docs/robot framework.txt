@@ -1,0 +1,6 @@
+Robot realmente é um Framework
+
+É um organizador e facilitador de automação geral
+/ automação robótica de processo ou teste
+
+
